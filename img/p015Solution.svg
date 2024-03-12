@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="768"
+   viewBox="0 0 270.93333 203.2"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="p015Solution.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.9814281"
+     inkscape:cx="557.35107"
+     inkscape:cy="375.47325"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999999"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker46"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path46" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideHeavy"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, heavy arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path3" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke-width:0.52916667;stroke-linecap:round;paint-order:markers fill stroke;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
+       id="rect1"
+       width="17.792948"
+       height="17.792948"
+       x="36.394669"
+       y="31.811638" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect2"
+       width="17.792948"
+       height="17.792948"
+       x="53.857185"
+       y="31.811638" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect3"
+       width="17.792948"
+       height="17.792948"
+       x="36.394669"
+       y="49.803322" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect4"
+       width="17.792948"
+       height="17.792948"
+       x="53.857185"
+       y="49.803322" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect5"
+       width="17.792948"
+       height="17.792948"
+       x="128.46973"
+       y="31.811638" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect6"
+       width="17.792948"
+       height="17.792948"
+       x="145.93199"
+       y="31.811638" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect7"
+       width="17.792948"
+       height="17.792948"
+       x="128.46973"
+       y="49.803322" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect8"
+       width="17.792948"
+       height="17.792948"
+       x="145.93199"
+       y="49.803322" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="58.14185"
+       y="15.463921"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="58.14185"
+         y="15.463921">Bruteforce Solution</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path8"
+       cx="77.586006"
+       cy="71.676506"
+       r="6.6720152" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="77.415123"
+       y="73.264015"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
+         x="77.415123"
+         y="73.264015">2,2</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="circle9"
+       cx="31.548462"
+       cy="27.226463"
+       r="6.6720152" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458333;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="31.377579"
+       y="28.284805"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0.26458333;stroke-dasharray:none"
+         x="31.377579"
+         y="28.284805">0,0</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.32291667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;marker-end:url(#ArrowWideHeavy)"
+       d="m 36.36097,31.811634 c 17.253767,0 17.253767,0 17.253767,0"
+       id="path10" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.32291667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;marker-end:url(#ArrowWideHeavy)"
+       d="M 54.186296,32.502247 V 48.991654"
+       id="path11" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.32291667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideHeavy);paint-order:normal"
+       d="m 54.352648,49.803312 c 17.253767,0 17.253767,0 17.253767,0"
+       id="path12" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.32291667;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideHeavy);paint-order:normal"
+       d="M 71.648807,51.023092 V 67.512499"
+       id="path13" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="59.200184"
+       y="87.959816"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="59.200184"
+         y="87.959816">The solution is to try</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="59.200184"
+         y="93.25148"
+         id="tspan17">to go the bottom right corner</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="59.200184"
+         y="98.543137"
+         id="tspan18">by trying all routes possible</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="60.474525"
+         y="103.8348"
+         id="tspan19">by moving either down or right. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="25.251854"
+       y="50.781792"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="25.251854"
+         y="50.781792">f(0+1, 0)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="53.828407"
+       y="26.973131"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="53.828407"
+         y="26.973131">f(0, 0+1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="22.606018"
+       y="68.244308"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="22.606018"
+         y="68.244308">f(0+1+1, 0)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="84.520103"
+       y="31.206467"
+       id="text21"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="84.520103"
+         y="31.206467">f(0, 0+1+1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="59.200184"
+       y="113.35981"
+       id="text25"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="59.200184"
+         y="113.35981"
+         id="tspan25">Everytime we reach the bottom</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="59.200184"
+         y="118.65147"
+         id="tspan28">right corner, we increment the</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="59.200184"
+         y="123.94313"
+         id="tspan29">routes counter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="59.200184"
+       y="132.9389"
+       id="text32"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="59.200184"
+         y="132.9389"
+         id="tspan32">After we tried all the possible</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="59.200184"
+         y="138.23056"
+         id="tspan34">routes, we can eiher return or</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="59.200184"
+         y="143.52223"
+         id="tspan35">inspect the routes counter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="151.80405"
+       y="15.463921"
+       id="text36"><tspan
+         sodipodi:role="line"
+         id="tspan36"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="151.80405"
+         y="15.463921">Optimized Solution</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="circle36"
+       cx="163.83971"
+       cy="67.443169"
+       r="6.6720152" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="163.66885"
+       y="69.030678"
+       id="text37"><tspan
+         sodipodi:role="line"
+         id="tspan37"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
+         x="163.66885"
+         y="69.030678">1</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="circle37"
+       cx="145.84828"
+       cy="67.443169"
+       r="6.6720152" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="145.67743"
+       y="69.030678"
+       id="text38"><tspan
+         sodipodi:role="line"
+         id="tspan38"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
+         x="145.67743"
+         y="69.030678">1</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="circle38"
+       cx="128.38602"
+       cy="67.443169"
+       r="6.6720152" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="128.21516"
+       y="69.030678"
+       id="text39"><tspan
+         sodipodi:role="line"
+         id="tspan39"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
+         x="128.21516"
+         y="69.030678">1</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="circle39"
+       cx="128.38602"
+       cy="49.980652"
+       r="6.6720152" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="128.21516"
+       y="51.568161"
+       id="text40"><tspan
+         sodipodi:role="line"
+         id="tspan40"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
+         x="128.21516"
+         y="51.568161">3</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="circle40"
+       cx="145.84828"
+       cy="49.980652"
+       r="6.6720152" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="145.67743"
+       y="51.568161"
+       id="text41"><tspan
+         sodipodi:role="line"
+         id="tspan41"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
+         x="145.67743"
+         y="51.568161">2</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="circle41"
+       cx="163.83971"
+       cy="49.980652"
+       r="6.6720152" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="163.66885"
+       y="51.568161"
+       id="text42"><tspan
+         sodipodi:role="line"
+         id="tspan42"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
+         x="163.66885"
+         y="51.568161">1</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="circle42"
+       cx="163.83971"
+       cy="31.988968"
+       r="6.6720152" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="163.66885"
+       y="33.576477"
+       id="text43"><tspan
+         sodipodi:role="line"
+         id="tspan43"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
+         x="163.66885"
+         y="33.576477">1</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="circle43"
+       cx="145.84828"
+       cy="31.988968"
+       r="6.6720152" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="145.67743"
+       y="33.576477"
+       id="text44"><tspan
+         sodipodi:role="line"
+         id="tspan44"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
+         x="145.67743"
+         y="33.576477">3</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="circle44"
+       cx="128.38602"
+       cy="31.988968"
+       r="6.6720152" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="128.21516"
+       y="33.576477"
+       id="text45"><tspan
+         sodipodi:role="line"
+         id="tspan45"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
+         x="128.21516"
+         y="33.576477">6</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker46);paint-order:normal"
+       d="m 175.72271,67.397534 c 23.45434,0 23.45434,0 23.45434,0"
+       id="path45" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="221.31308"
+       y="68.818916"
+       id="text49"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="221.31308"
+         y="68.818916"
+         id="tspan49">Base case f(2,2)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="154.44984"
+       y="87.959816"
+       id="text55"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="154.44984"
+         y="87.959816"
+         id="tspan55">The solution has similarity to</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="154.44984"
+         y="93.25148"
+         id="tspan58">the brute force solution, except</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="154.44984"
+         y="98.543137"
+         id="tspan60">that instead of visiting the route</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="154.44984"
+         y="103.8348"
+         id="tspan61">again, we save how many routes it</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="154.44984"
+         y="109.12646"
+         id="tspan62">will take to visit each routes in</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="154.44984"
+         y="114.41813"
+         id="tspan63">a node.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="154.44984"
+       y="123.41397"
+       id="text69"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="154.44984"
+         y="123.41397"
+         id="tspan69">For example, to calculate how many</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="154.44984"
+         y="128.70563"
+         id="tspan77">routes it will take from f(0,0) to</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="154.44984"
+         y="133.9973"
+         id="tspan78">reach f(2,2), we first calculate how</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="154.44984"
+         y="139.28896"
+         id="tspan79">many routes it will take for f(0+1, 0)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="154.44984"
+         y="144.58063"
+         id="tspan80">and f(0, 0+1) to reach f(2,2).</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker46);paint-order:normal"
+       d="M 152.69384,46.194689 C 189.86649,36.28198 189.86649,36.28198 189.86649,36.28198"
+       id="path74" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker46);paint-order:normal"
+       d="m 135.87577,27.555767 c 69.57958,-4.956355 69.57958,-4.956355 69.57958,-4.956355"
+       id="path75" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="199.84431"
+       y="37.43082"
+       id="text75"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="199.84431"
+         y="37.43082"
+         id="tspan75">f(1,1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="214.33212"
+       y="23.557623"
+       id="text76"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="214.33212"
+         y="23.557623"
+         id="tspan76">f(0,0)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="154.44984"
+       y="153.57613"
+       id="text85"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="154.44984"
+         y="153.57613"
+         id="tspan89">Same is true for all f(a,b), such that</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="154.44984"
+         y="158.86778"
+         id="tspan90">calculating the total routes for f(a,b)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="154.44984"
+         y="164.15945"
+         id="tspan91">requires calculating f(a+1, b) and</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="154.44984"
+         y="169.45111"
+         id="tspan92">f(a, b+1), first.</tspan></text>
+  </g>
+</svg>

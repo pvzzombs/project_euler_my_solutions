@@ -1,0 +1,5 @@
+.vscode
+.vscode/*
+*.exe
+test.txt
+p14result.txt

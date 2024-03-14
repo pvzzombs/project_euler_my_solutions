@@ -71,12 +71,13 @@ int main() {
 
   // std::cin >> testCases;
   testCases = 1;
-  for(int i=1; i<=testCases; i++) {
+  for(int i = 1; i <= testCases; i++) {
     // std::cin >> gridSize;
     gridSize = 20;
-    ss << "Testcase #";
-    ss << i;
-    ss << ", Grid size: ";
+    // ss << "Testcase #";
+    // ss << i;
+    // ss << ", ";
+    ss << "Grid size: ";
     ss << gridSize;
     ss << ", Total routes: ";
     // ss << app.run(gridSize);

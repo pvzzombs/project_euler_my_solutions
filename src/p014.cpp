@@ -27,7 +27,6 @@ public:
     return 1 + run(newN);
   }
   int runOptimized(unsigned int n) {
-    // std::cout << n << std::endl;
     ++numberOfRunCalls;
     unsigned int newN, result = 0;
     if(n == 1) {
@@ -43,20 +42,10 @@ public:
       } else {
         newN = n / 2;
       }
-      // if(newN <= 0) {
-      //   std::cout << "n is " << n << std::endl;
-      //   std::exit(1);
-      // }
+
       result = 1 + runOptimized(newN);
       store[n] = result;
     }
-
-    // if(n < 0) {
-    //   std::cout << "n: " << n << std::endl;
-    // }
-    // if(newN < 0) {
-    //   std::cout << "newN: " << newN << std::endl;
-    // }
     
     return result;
   }
@@ -77,7 +66,7 @@ int main() {
   // std::cin >> testCases;
   testCases = 1000000;
   // app.init(testCases);
-  for(unsigned int i=1; i<=testCases; i++) {
+  for(unsigned int i = 1; i <= testCases; i++) {
     // std::cin >> startNum;
     startNum = i;
     // std::cout << startNum << std::endl;
@@ -104,6 +93,5 @@ int main() {
   }
   ss << "The number that produced the longest chain is " << index << " with " << maxtermsCount << " terms.";
   std::cout << ss.str() << std::endl;
-  // std::cout << app.runOptimized(113383) << std::endl;
   return 0;
 }

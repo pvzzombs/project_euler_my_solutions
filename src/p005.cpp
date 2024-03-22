@@ -24,7 +24,7 @@ public:
   }
   unsigned int run(unsigned int num) {
     unsigned int currentNumber = 1;
-    for(int i = 2; i <= num; i++) {
+    for(unsigned int i = 2; i <= num; i++) {
       currentNumber = lcm(currentNumber, i);
     }
     return currentNumber;

@@ -5,7 +5,7 @@
 #define INVALID_VALUE 0
 
 class LatticePaths {
-  unsigned int totalRoutes;
+  unsigned long long totalRoutes;
   unsigned int lastIndex;
   std::vector<std::vector<unsigned long long>> grid;
 public:
@@ -19,7 +19,7 @@ public:
     move(row + 1, col);
     move(row, col + 1);
   }
-  int run(unsigned int n) {
+  unsigned long long run(unsigned int n) {
     lastIndex = n;
     totalRoutes = 0;
     move(0, 0);
@@ -71,7 +71,7 @@ int main() {
 
   // std::cin >> testCases;
   testCases = 1;
-  for(int i = 1; i <= testCases; i++) {
+  for(unsigned int i = 1; i <= testCases; i++) {
     // std::cin >> gridSize;
     gridSize = 20;
     // ss << "Testcase #";

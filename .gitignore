@@ -4,6 +4,7 @@ bin
 bin/
 build
 build/
+*.class
 *.exe
 test.txt
 p14result.txt

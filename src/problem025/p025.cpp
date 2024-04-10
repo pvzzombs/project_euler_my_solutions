@@ -13,7 +13,7 @@ public:
     mpz_t a;
     mpz_t b;
     mpz_t temp;
-    // for(int i=0; i<10; i++) {
+    // for(int i = 0; i < 10; i++) {
     //   std::cout << index << ": "<< a << std::endl;
     //   temp = a + b;
     //   a = b;
@@ -45,7 +45,6 @@ public:
 int main() {
   FibonacciNumber app;
   std::stringstream ss;
-  app.run();
   ss << "The index of the first term in the Fibonacci sequence to contain 1000 digits is ";
   ss << app.run();
   ss << ".";

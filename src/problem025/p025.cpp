@@ -5,7 +5,6 @@
 #include <mini-gmp.h>
 
 class FibonacciNumber {
-
 public:
   unsigned long long run() {
     // int a = 1, b = 1, temp;

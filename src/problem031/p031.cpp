@@ -41,8 +41,10 @@ public:
   }
   unsigned int run(unsigned int amount, const std::vector<unsigned int> &coinAmounts) {
     table.clear();
-    table.insert(std::make_pair<unsigned int, std::unordered_set<unsigned int>>(0, {0}));
-    table.insert(std::make_pair<unsigned int, std::unordered_set<unsigned int>>(1, {1}));
+    std::pair<unsigned int, std::unordered_set<unsigned int>> temp1(0, {0});
+    std::pair<unsigned int, std::unordered_set<unsigned int>> temp2(1, {1});
+    table.insert(temp1);
+    table.insert(temp2);
     count(amount, coinAmounts);
     return table.at(amount).size();
   }
@@ -221,8 +223,10 @@ public:
   unsigned int run5(unsigned int amount, const std::vector<unsigned int> &coinAmounts) {
     /* ----- Incomplete ----- */
     table5.clear();
-    table5.insert(std::make_pair<unsigned int, std::unordered_set<std::string>>(0, {"0,0"}));
-    table5.insert(std::make_pair<unsigned int, std::unordered_set<std::string>>(1, {"1,1"}));
+    std::pair<unsigned int, std::unordered_set<std::string>> temp1(0, {"0,0"});
+    std::pair<unsigned int, std::unordered_set<std::string>> temp2(1, {"1,1"});
+    table5.insert(temp1);
+    table5.insert(temp2);
     count(amount, coinAmounts);
     return table.at(amount).size();
   }

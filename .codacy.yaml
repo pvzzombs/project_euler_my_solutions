@@ -1,5 +1,5 @@
 ---
 exclude_paths:
-  - "src/mini-gmp"
+  - "src/mini-gmp/**"
   - "include/mini-gmp.h"
   - "include/mini-mpq.h"

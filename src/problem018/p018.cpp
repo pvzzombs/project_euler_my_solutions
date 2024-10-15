@@ -12,6 +12,7 @@ class PathSum1 {
   unsigned int maxSum;
   unsigned int moveCalls;
   unsigned int bottomCalls;
+
 public:
   void move(unsigned int row, unsigned int col, unsigned int previousSum, std::vector<std::vector<unsigned int>> &input) {
     moveCalls++;

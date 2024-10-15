@@ -8,6 +8,7 @@ class LatticePaths {
   unsigned long long totalRoutes;
   unsigned int lastIndex;
   std::vector<std::vector<unsigned long long>> grid;
+
 public:
   void move(unsigned int row, unsigned int col) {
     if(row == lastIndex && col == lastIndex) {

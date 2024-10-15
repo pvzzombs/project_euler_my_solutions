@@ -6,6 +6,7 @@
 class CollatzSequence {
   int numberOfRunCalls;
   std::unordered_map<unsigned int, unsigned int> store;
+
 public:
   void init(int n) {
     store.reserve(n * 2);

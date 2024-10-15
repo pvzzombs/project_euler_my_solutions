@@ -17,6 +17,7 @@ class CoinSums {
   std::unordered_map<unsigned int, std::unordered_set<std::string>> table5;
   std::vector<std::vector<unsigned int>> table6;
   std::vector<unsigned int> tableOptimized;
+
 public:
   std::unordered_set<unsigned int> count(unsigned int amount, const std::vector<unsigned int> &coinAmounts) {
     if(table.count(amount) > 0) {

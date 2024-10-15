@@ -7,6 +7,7 @@ class NumberSpiralDiagonals {
   enum PathDirection {goUp, goDown, goLeft, goRight};
   std::vector<std::vector<unsigned int>> square;
   unsigned int middle;
+
 public:
   void calculateSpiral() {
     unsigned int topLimit = middle;

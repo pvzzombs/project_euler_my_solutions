@@ -1,5 +1,7 @@
 Welcome to this repository.
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/1855f870a8954beda42fee6cac08aec7)](https://app.codacy.com/gh/pvzzombs/project_euler_my_solutions/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) [![CodeFactor](https://www.codefactor.io/repository/github/pvzzombs/project_euler_my_solutions/badge)](https://www.codefactor.io/repository/github/pvzzombs/project_euler_my_solutions)
+
 This repository contains solutions to Project Euler problems
 (See https://projecteuler.net/)
 (See https://projecteuler.net/archives)
